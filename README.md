@@ -25,6 +25,7 @@ Run the Django server and execute the HTML files.
 
 
 ## Code:
+```
  
  map.html
  
@@ -270,7 +271,7 @@ Run the Django server and execute the HTML files.
 
 </html>
 
-
+```
  
  
 
