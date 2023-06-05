@@ -22,8 +22,6 @@ Write the required HTML code
 Run the Django server and execute the HTML files.
 
 
-
-
 ## Code:
 ```
  
@@ -274,8 +272,13 @@ Run the Django server and execute the HTML files.
 ```
  
  
+## OUTPUT:
 
-## Output:
+### SERVER OUTPUT :
+
+![Screenshot 2023-06-05 233315](https://github.com/Abrinnisha6/places-around-me/assets/118889454/752e3b45-2a50-45bb-b598-9b5e2612e67a)
+
+### CLIENT OUTPUT :
 
 ![img1](https://user-images.githubusercontent.com/118889454/234755969-48a51437-3d94-40c0-bfb5-5dd27b076f32.png)
 
@@ -300,8 +303,6 @@ Run the Django server and execute the HTML files.
 ![img7](https://user-images.githubusercontent.com/118889454/234756232-049b5156-f386-45bb-a800-3f0c9d325035.png)
 
 
-
 ## Result:
 
 The program for implementing image map is executed successsfully.
-
